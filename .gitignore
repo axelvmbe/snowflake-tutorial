@@ -1,0 +1,4 @@
+dbt_airflow/logs
+dbt_airflow/plugins
+
+dbt_airflow/dags/__pycache__
